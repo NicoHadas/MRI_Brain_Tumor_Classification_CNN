@@ -7,7 +7,7 @@ This repository contains the code for a Convolutional Neural Network (CNN) model
 
 ## Data Source
 -   **Kaggle Dataset**: The model was trained and evaluated using a public dataset from Kaggle, comprising 3264 MRI images.
-    -   **Link to dataset**: [Brain Tumor MRI Dataset Kaggle]([https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset])
+    -   **Link to dataset**: [Brain Tumor MRI Dataset Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
     -   **Classes**: The images are categorized into four classes:
         1.  Glioma Tumor
         2.  Meningioma Tumor
